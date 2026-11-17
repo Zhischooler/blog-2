@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: zhixiaoer7891@outlook.com
 description: 这里是志校儿的个人博客| 要做一个热爱编程的UP主"
 keyword: "志校儿, Zhischooler, 志校儿的博客, Zhischooler志校儿"
-url: "https://zhischooler.github.io/blog-2" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://zhischooler.github.io" # your host, for absolute URL
+baseurl: "/blog-2" # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # Publish posts or collection documents with a future date.
