@@ -82,5 +82,5 @@ ga_domain: zhischooler.github.io/blog-2
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "热爱编程 <br> 新手多多指教"
+sidebar-about-description: "热爱编程 <br> 是个新手，请多多指教"
 sidebar-avatar: https://github.com/Zhischooler.png # use absolute URL, seeing it's used in both `/` and `/about/`
